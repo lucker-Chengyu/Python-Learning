@@ -1,0 +1,28 @@
+Task Feasibility Report
+
+T1: executable
+T2: executable
+T3: executable
+T4: executable
+T5: executable
+T6: executable
+T7: executable
+T8: executable
+T9: executable
+T10: executable
+T11: executable
+T12: executable
+T13: executable
+T14: executable
+T15: executable
+
+Executable tasks: 15
+Non-executable tasks: 0
+
+Schedule feasibility
+
+S1: Robot R9 completed schedule in 1.60 hours and covered 24.05 km. Battery remaining 11.01%.
+S2: Infeasible
+S3: Infeasible
+S4: Robot R1 completed schedule in 1.10 hours and covered 16.45 km. Battery remaining 19.86%.
+S5: Robot R10 completed schedule in 2.40 hours and covered 36.04 km. Battery remaining 21.15%.
